@@ -1,4 +1,0 @@
-cd
-
-npm run serve
-
